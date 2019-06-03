@@ -1,5 +1,17 @@
-IDEaS Summer Data Science Bootcamp
-==================================
+<p align="center"
+<br>
+<img src="media/bootcamp-2019.png" alt="Bootcamp Logo" height=300> <br>
+</p>
+
+---
+
+### Repository Overview & Organization
+
+This repository is intended to centralize the collaborative development of
+educational materials for the 2019 Data Science Bootcamp by both instructors
+and teaching assistants.   
+
+### Bootcamp Description
 
 Data science is revolutionizing how scientists and engineers go about their
 work, but most students have not had much exposure to it. This one-week
@@ -15,19 +27,37 @@ charge, but enrollment is capped so students must apply by May 15, 2019.
 Students from Agnes Scott, Morehouse, Spelman, and Georgia Tech are
 particularly encouraged to apply.
 
-- Topics: Computer programming in Python for data science, clustering, numerical
-linear algebra, classification, regression, deep learning, and domain
-applications
-- Tools: Python, Jupyter notebooks, GitHub, NumPy, Pandas, Matplotlib,
-scikit-learn, and TensorFlow
-- Skills: Python programming, version control, social coding, data handling and
-visualization, data analysis, data modeling and prediction, and scientific and
-engineering applications
-- Instructors: Ryan Wade (Blue Horseshoe Solutions), Vetria Byrd (Purdue
-University), Edmond Chow (Georgia Tech), Xiaoming Huo (Georgia Tech), Eva Dyer
-(Georgia Tech), Chris DePree (Agnes Scott), and David Sherrill (Georgia Tech)
-- Location: Georgia Tech Campus • Visitor parking available in the W23 Parking
-Lot, located at 911 State St. NW.
+- Topics: 
+    * Computer programming in Python for data science, 
+    * clustering, 
+    * numerical linear algebra, 
+    * classification, 
+    * regression, 
+    * deep learning, and 
+    * domain applications
+- Tools: 
+    * Python, 
+    * Jupyter notebooks, 
+    * GitHub, 
+    * NumPy, Pandas, Matplotlib, scikit-learn, and TensorFlow libraries
+- Skills: 
+    * Python programming, 
+    * version control, 
+    * social coding, 
+    * data handling and visualization, 
+    * data analysis, 
+    * data modeling and prediction, and 
+    * scientific and engineering applications
+- Instructors: 
+    * Ryan Wade (Blue Horseshoe Solutions), 
+    * Vetria Byrd (Purdue University), 
+    * Edmond Chow (Georgia Tech), 
+    * Xiaoming Huo (Georgia Tech), 
+    * Eva Dyer (Georgia Tech), 
+    * Chris DePree (Agnes Scott), and 
+    * David Sherrill (Georgia Tech)
+- Location: Georgia Tech Campus (Visitor parking available in the W23 Parking
+Lot, located at 911 State St. NW.)
     * Monday: Engineered Biosystems Building (EBB), Children's Healthcare Seminar Room (first floor by food kiosk), 950 Atlantic Dr., Atlanta GA 30332
     * Tuesday–Friday: Molecular Science and Engineering Building (MoSE), Room G011 (ground floor behind elevators), 901 Atlantic Dr., Atlanta, GA 30332
 

@@ -1,6 +1,7 @@
 <p align="center"
 <br>
 <img src="media/bootcamp-2019.png" alt="Bootcamp Logo" height=300> <br>
+<a href="https://mybinder.org/v2/gh/GT-IDEaS/Bootcamp2019/master"><img src="https://mybinder.org/badge.svg"/></a>
 </p>
 
 ---

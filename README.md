@@ -10,7 +10,32 @@
 
 This repository is intended to centralize the collaborative development of
 educational materials for the 2019 Data Science Bootcamp by both instructors
-and teaching assistants.   
+and teaching assistants.
+
+### Bootcamp Schedule
+
+|                       | Monday                         | Tuesday                               | Wednesday                                     | Thursday                                   |
+|-----------------------|--------------------------------|---------------------------------------|-----------------------------------------------|--------------------------------------------|
+|  9:30 - 9:40 Welcome  |                                |                                       |                                               |                                            |
+| 9:40 - 10:30 Lecture  |  Ryan Wade - Python & GitHub   | Vetria Byrd - Python for Data Science | Edmond Chow - Regression, Discriminants, etc. | Xiaoming Huo - Clustering & Classification |
+| 10:30 - 10:50 Break   |                                |                                       |                                               |                                            |
+| 10:50 - 11:40 Lecture |   Ryan Wade - Python & Github  | Vetria Byrd - Python for Data Science | Edmond Chow - Regression, Discriminants, etc. | Xiaoming Huo - Clustering & Classification |
+| 11:40 - 1:15 Lunch    |                                |                                       |                                               |                                            |
+| 1:15 - 2:30 Lab       |  Dominic Sirianni - GitHub Planets | Benjamin Comer - Library Basics       | Ray Lei - SciKitLearn Basics                  | Ray Lei - Clustering                       |
+| 2:30 - 2:45 Break     |                                |                                       |                                               |                                            |
+| 2:45 - 4:00 Lab       | Benjamin Comer - Project Euler | Dominic Sirianni - Ecology Data Carpentry | Derek Metcalf - TensorFlow Basics             | Derek Metcalf - Classification             |
+
+
+|                       | Friday                                                        |
+|-----------------------|---------------------------------------------------------------|
+|  9:30 - 9:40 Welcome  |                                                               |
+| 9:40 - 10:20 Lecture  |   Vetria Byrd - The ubiquitous nature of data visualization   |
+| 10:20 - 11:00 Lecture | David Sherrill - Machine learning for predicting drug binding |
+| 11:00 - 11:20 Break   |                                                               |
+| 11:20 - 11:50 Lecture |           Chris DePree - The NASA exoplanet dataset           |
+| 11:50 Adjourn         |                                                               |
+
+
 
 ### Bootcamp Description
 

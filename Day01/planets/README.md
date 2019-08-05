@@ -23,10 +23,12 @@ have a [CodeAcademy](https://www.codecademy.com/learn) account, you can check ou
     $ git push origin master
     ```
 inside the directory for the `planets` repository on `local`.
+
  6. [Open a pull request](https://guides.github.com/activities/forking/#making-a-pull-request)
  to the [GT-IDEaS/Bootcamp2019 repository](https://github.com/GT-IDEaS/planets), what
  we'll call `upstream` (since your `origin` is a fork of this repository, this
  repository is one "level" above your `origin`).
+ 
  7. Success!
 
  Your pull request can be approved, returned marked for you to change, or

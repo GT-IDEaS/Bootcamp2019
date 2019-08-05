@@ -4,6 +4,11 @@ A cosmic description of our solar systems' celestial bodies,
 to introduce the basics of the [GitHub
 workflow](https://guides.github.com/introduction/flow/).
 
+<p align="center"
+<br>
+<img src="media/fork-and-clone-graphic.png" alt="ForkandClone" height=300> <br>
+</p>
+
 ### Activity Instructions
 
 1. If you don't have one already, make a GitHub account

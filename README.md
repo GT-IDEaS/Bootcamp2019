@@ -81,3 +81,7 @@ Once you have generated your virtual machine, follow these steps to launch it.
 #### Connecting on Windows
 
 Once the Data Virtual Machine is done deploying, click "go to resource." From there click "connect" on the top right of the resource window, then click "Download RDP File." Open this file and enter the username and password you made when you created the virtual machine.
+
+### Bootcamp Pre-Survey
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfqx-5VYfjM_SCvqoDgghfqbkxbes1NUzki3kXgrt50fOOe3w/viewform?usp=sf_link">Pre-Bootcamp Survey</a>

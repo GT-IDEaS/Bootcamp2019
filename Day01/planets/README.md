@@ -6,7 +6,7 @@ workflow](https://guides.github.com/introduction/flow/).
 
 <p align="center"
 <br>
-<img src="media/fork-and-clone-graphic.png" alt="ForkandClone" height=300> <br>
+<img src="../../media/fork-and-clone-graphic.png" alt="ForkandClone" height=300> <br>
 </p>
 
 ### Activity Instructions

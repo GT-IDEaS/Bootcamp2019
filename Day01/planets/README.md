@@ -20,14 +20,15 @@ from there.
 3. [Clone your fork](https://guides.github.com/activities/forking/#clone) of this
 repository to your DSVM (what we will hereafter call `local`)
 4. Make some changes to a file in this repository by editing it in your 
-favorite text editor, then commit your changes on `local`.  If you
+favorite text editor, like Notepad++ or VIM.
+5. Next, commit your changes on `local` by using the Anaconda command prompt.  If you
 have a [CodeAcademy](https://www.codecademy.com/learn) account, you can check out
 [this interactive tutorial](https://www.codecademy.com/learn/learn-git) for help.
 5. Push your changes from `local` to `origin`.  This can be done on the command line by executing
     ```
-    $ git push origin master
+    (base) C:\Users\dsirianni\Bootcamp2019\Day01\planets> git push origin master
     ```
-inside the directory for the `planets` repository on `local`.
+inside the directory for the `Bootcamp2019` repository on `local`, your DSVM.
 
  6. [Open a pull request](https://guides.github.com/activities/forking/#making-a-pull-request)
  to the [GT-IDEaS/Bootcamp2019 repository](https://github.com/GT-IDEaS/planets), what

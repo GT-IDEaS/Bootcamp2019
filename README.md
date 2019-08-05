@@ -80,7 +80,22 @@ Once you have generated your virtual machine, follow these steps to launch it.
 
 #### Connecting on Windows
 
-Once the Data Virtual Machine is done deploying, click "go to resource." From there click "connect" on the top right of the resource window, then click "Download RDP File." Open this file and enter the username and password you made when you created the virtual machine.
+Once the Data Virtual Machine is done deploying:
+* click "go to resource." 
+* From there click "connect" on the top right of the resource window
+* click "Download RDP File." 
+* Open this file and enter the username and password you made when you created the virtual machine.
+
+
+# IF YOU FOR WHATEVER REASON CANNOT GET INTO A VIRTUAL MACHINE FOLLOW THESE INSTRUCTIONS
+
+* go to this address: https://www.anaconda.com/distribution/
+* choose a distribution appropriate for your operating system
+* download the file and follow the installation instructions
+* If you are on windows, this will give you the anaconda prompt, and you can follow along
+* If you are on mac, you can use your terminal. To access this, open `finder` and type in "terminal"
+* this will allow you to follow along on your local machine, but you may need to install some packages
+
 
 ### Bootcamp Pre-Survey
 

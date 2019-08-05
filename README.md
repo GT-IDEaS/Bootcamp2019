@@ -90,7 +90,7 @@ Once the Data Virtual Machine is done deploying:
 # IF YOU FOR WHATEVER REASON CANNOT GET INTO A VIRTUAL MACHINE FOLLOW THESE INSTRUCTIONS
 
 * First, try deleting the virtual machine you made and start over
-* ensure that when you're logging into the virtual machine, you're using the udername and password you made with your virtual machine
+* ensure that when you're logging into the virtual machine, you're using the username and password you made when you were prompted to create when you made your virtual machine
 * If these fail you'll need to work locally, the dirctions below will allow you to do this.
 * go to this address: https://www.anaconda.com/distribution/
 * choose a distribution appropriate for your operating system

@@ -36,7 +36,6 @@ and teaching assistants.
 | 11:50 Adjourn         |                                                               |
 
 
-
 ### Bootcamp Description
 
 Data science is revolutionizing how scientists and engineers go about their
@@ -70,4 +69,9 @@ This bootcamp is sponsored by a National Science Foundation TRIPODS+X: EDU
 grant to the Data-Driven Alliance (Agnes Scott, Georgia Tech, Morehouse, and
 Spelman) and the Institute for Data Engineering and Science (IDEaS) at Georgia
 Tech.
+
+### Lunch Options
+
+<a href="http://vergil.chemistry.gatech.edu/lunch.html">Restaurants near Georgia Tech</a>
+
 

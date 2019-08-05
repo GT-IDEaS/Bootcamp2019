@@ -74,4 +74,10 @@ Tech.
 
 <a href="http://vergil.chemistry.gatech.edu/lunch.html">Restaurants near Georgia Tech</a>
 
+### Connecting to Virtual Machines
 
+Once you have generated your virtual machine, follow these steps to launch it.
+
+#### Connecting on Windows
+
+Once the Data Virtual Machine is done deploying, click "go to resource." From there click "connect" on the top right of the resource window, then click "Download RDP File." Open this file and enter the username and password you made when you created the virtual machine.

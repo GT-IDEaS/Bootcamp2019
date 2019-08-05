@@ -202,4 +202,16 @@ Applying: Create Tester.txt
 Applying: Some change to the Earth file
 Applying: Some change to the Earth file
 
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git push --force origin master
+Enumerating objects: 22, done.
+Counting objects: 100% (22/22), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (16/16), done.
+Writing objects: 100% (17/17), 1.70 KiB | 581.00 KiB/s, done.
+Total 17 (delta 11), reused 1 (delta 0)
+remote: Resolving deltas: 100% (11/11), completed with 4 local objects.
+To https://github.com/kxu08/Bootcamp2019.git
+ + d70a26d...494c58f master -> master (forced update)
+
+
 (base) C:\Users\kxu\Bootcamp2019\Day01\planets>

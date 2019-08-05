@@ -20,7 +20,7 @@ from there.
 3. [Clone your fork](https://guides.github.com/activities/forking/#clone) of this
 repository to your DSVM (what we will hereafter call `local`)
 4. Make some changes to a file in this repository by editing it in your 
-favorite text editor, like Notepad++ or VIM.
+favorite text editor, like Notepad++ or VIM...
 5. Next, commit your changes on `local` by using the Anaconda command prompt.  If you
 have a [CodeAcademy](https://www.codecademy.com/learn) account, you can check out
 [this interactive tutorial](https://www.codecademy.com/learn/learn-git) for help.

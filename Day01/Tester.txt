@@ -1,1 +1,205 @@
 Hello world! Table tennis is great!! :D
+
+
+(base) C:\Users\kxu>cd Bootcamp2019
+
+(base) C:\Users\kxu\Bootcamp2019>ls
+Day01  Day02  LICENSE  README.md  StepsToCreateDSVM.pdf  environment.yml  media
+
+(base) C:\Users\kxu\Bootcamp2019>cd Day01
+
+(base) C:\Users\kxu\Bootcamp2019\Day01>ls
+Afternoon_Session2.ipynb  Tester.txt  planets
+
+(base) C:\Users\kxu\Bootcamp2019\Day01>cd planets
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>ls
+Earth  Jupiter  Luna  Mars  Mercury  Neptune  Pluto  README.md  Saturn  Sun  Uranus  Venus
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>ls
+Earth  Jupiter  Luna  Mars  Mercury  Neptune  Pluto  README.md  Saturn  Sun  Uranus  Venus
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   Earth
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../../.Earth.swp
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git add status
+fatal: pathspec 'status' did not match any files
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>cd
+C:\Users\kxu\Bootcamp2019\Day01\planets
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>ls
+Earth  Jupiter  Luna  Mars  Mercury  Neptune  Pluto  README.md  Saturn  Sun  Uranus  Venus
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   Earth
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../../.Earth.swp
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git add Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git Earth
+git: 'Earth' is not a git command. See 'git --help'.
+
+The most similar command is
+        branch
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Earth
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../../.Earth.swp
+
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git commit -m "Some change to the Earth file"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'kxu@kxu.(none)')
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git config --global user.email "kpxu08@gmail.com"
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git config --global user.name "kxu08"
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git commit -m "Some change to the Earth file"
+[master 839f987] Some change to the Earth file
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git add Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Earth
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        ../../.Earth.swp
+
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git push origin master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 515 bytes | 515.00 KiB/s, done.
+Total 5 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/kxu08/Bootcamp2019.git
+   f45b294..839f987  master -> master
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>ls
+Earth  Jupiter  Luna  Mars  Mercury  Neptune  Pluto  README.md  Saturn  Sun  Uranus  Venus
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git add Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git push origin master
+Everything up-to-date
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git commit -m "Some change to the Earth file"
+[master cbcff2f] Some change to the Earth file
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git push origin master
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 485 bytes | 485.00 KiB/s, done.
+Total 5 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/kxu08/Bootcamp2019.git
+   839f987..cbcff2f  master -> master
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git remote add upstream https://github.com/GT-IDEaS/Bootcamp2019.git
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git remote -v
+origin  https://github.com/kxu08/Bootcamp2019.git (fetch)
+origin  https://github.com/kxu08/Bootcamp2019.git (push)
+upstream        https://github.com/GT-IDEaS/Bootcamp2019.git (fetch)
+upstream        https://github.com/GT-IDEaS/Bootcamp2019.git (push)
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>vim Earth
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>git pull --rebase upstream master
+remote: Enumerating objects: 16, done.
+remote: Counting objects: 100% (16/16), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 22 (delta 12), reused 11 (delta 11), pack-reused 6
+Unpacking objects: 100% (22/22), done.
+From https://github.com/GT-IDEaS/Bootcamp2019
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> upstream/master
+First, rewinding head to replay your work on top of it...
+Applying: Update README.md
+Applying: Create Tester.txt
+Applying: Some change to the Earth file
+Applying: Some change to the Earth file
+
+(base) C:\Users\kxu\Bootcamp2019\Day01\planets>

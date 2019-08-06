@@ -78,15 +78,31 @@ Tech.
 
 ### Connecting to Virtual Machines
 
-Once you have generated your virtual machine, follow these steps to launch it.
+Once you have generated your data science virtual machine (DSVM), follow these steps 
+to launch it:
 
 #### Connecting on Windows
 
-Once the Data Virtual Machine is done deploying:
-* click "go to resource." 
-* From there click "connect" on the top right of the resource window
-* click "Download RDP File." 
-* Open this file and enter the username and password you made when you created the virtual machine.
+Once the DSVM is done deploying:
+1. click "go to resource." 
+2. From there click "connect" on the top right of the resource window
+3. click "Download RDP File." 
+4. Open this file and enter the username and password you made when you created the virtual machine.
+
+#### Connecting on Mac OSX
+
+Once the DSVM had deployed:
+1. Launch the Microsoft remote desktop client ([RDC](https://apps.apple.com/us/app/microsoft-remote-desktop/id715768417)).
+2. If this is the first time connecting to the DSVM, add a new connection by clicking
+on the "New" button (big plus "+", upper left corner of window). Then, fill in the
+following fields in the pop-up window:
+    * Connection name: (doesn't matter what you call it)
+    * "PC Name": input the public IP address of the DSVM (available under the
+    "Overview" section of the DSVM on the Azure dashboard)
+    * "User name"/"Password": Username & passord for Azure account, set when the DSVM was created
+3. After filling in the above fields, close the external window.  The new connection should
+appear under "My Desktops" in the Microsoft remote desktop client.
+4. Launch your DSVM by double-clicking the item in the list
 
 
 # IF YOU FOR WHATEVER REASON CANNOT GET INTO A VIRTUAL MACHINE FOLLOW THESE INSTRUCTIONS

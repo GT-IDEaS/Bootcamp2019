@@ -76,4 +76,32 @@ Tech.
 
 <a href="http://vergil.chemistry.gatech.edu/lunch.html">Restaurants near Georgia Tech</a>
 
+### Connecting to Virtual Machines
 
+Once you have generated your virtual machine, follow these steps to launch it.
+
+#### Connecting on Windows
+
+Once the Data Virtual Machine is done deploying:
+* click "go to resource." 
+* From there click "connect" on the top right of the resource window
+* click "Download RDP File." 
+* Open this file and enter the username and password you made when you created the virtual machine.
+
+
+# IF YOU FOR WHATEVER REASON CANNOT GET INTO A VIRTUAL MACHINE FOLLOW THESE INSTRUCTIONS
+
+* First, try deleting the virtual machine you made and start over
+* ensure that when you're logging into the virtual machine, you're using the username and password you made when you were prompted to create when you made your virtual machine
+* If these fail you'll need to work locally, the dirctions below will allow you to do this.
+* go to this address: https://www.anaconda.com/distribution/
+* choose a distribution appropriate for your operating system
+* download the file and follow the installation instructions
+* If you are on windows, this will give you the anaconda prompt, and you can follow along
+* If you are on mac, you can use your terminal. To access this, open `finder` and type in "terminal"
+* this will allow you to follow along on your local machine, but you may need to install some packages
+
+
+### Bootcamp Pre-Survey
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfqx-5VYfjM_SCvqoDgghfqbkxbes1NUzki3kXgrt50fOOe3w/viewform?usp=sf_link">Pre-Bootcamp Survey</a>

@@ -1,0 +1,42 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+x=np.linspace(0,10,40)
+y=0.004*x**3-0.5*x**2+2.5*x
+r=np.random.randn(40)*0.5+1
+y_e=y+r
+
+# o-o-p style pyplot
+fig=plt.figure()
+
+axes1=fig.add_axes([0.1,0.1,0.8,0.8])
+#sizes: xloc,yloc,width,height
+
+axes1.plot(x,y_e)
+#axes1.set_title('string $1$'),axes1.set_xlabel
+
+#scalable: svg and pdf format
+#fig.savefig('figure1.svg')
+
+month = ['Jan','Feb','Mar','Apr','May','Jun','Jul']
+amount = np.linspace(30,80,7) + np.random.randn(7) * 3
+fig1=plt.figure()
+ax1=fig1.add_axes([0.1,0.1,0.8,0.8])
+
+ax1.bar(month,amount,color='r')
+ax1.text(0.3,80,'Success!',rotation=30,fontsize=20)
+fig1.savefig('fig1.jpg')
+
+from scipy.stats import linregress
+m,b,r,p,std=linregress(x,y_e)
+
+plt.scatter(x,y_e)
+plt.plot(x,x*m+b)
+
+coeff=np.polyfit(x,y_e,3)
+p=np.poly1d(coeff)
+plt.scatter(x,y_e)
+plt.plot(x,p(x))
+coeff
+
+#select deg: Baysian criteria

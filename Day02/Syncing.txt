@@ -1,0 +1,13 @@
+(base) C:\Users\kxu\Documents\GitHub\Bootcamp2019>git remote add upstream https://github.com/GT-IDEaS/Bootcamp2019.git
+
+(base) C:\Users\kxu\Documents\GitHub\Bootcamp2019>git pull upstream master
+From https://github.com/GT-IDEaS/Bootcamp2019
+ * branch            master     -> FETCH_HEAD
+Auto-merging README.md
+Auto-merging Day01/planets/Earth
+CONFLICT (content): Merge conflict in Day01/planets/Earth
+Auto-merging Day01/Afternoon_Session2.ipynb
+CONFLICT (content): Merge conflict in Day01/Afternoon_Session2.ipynb
+Automatic merge failed; fix conflicts and then commit the result.
+
+(base) C:\Users\kxu\Documents\GitHub\Bootcamp2019>git commit -m "change"

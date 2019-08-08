@@ -1,0 +1,7 @@
+Employee ID,Name,DOH,DOB,SSN,EmployeeAddress,TerminalAddress,lon_EmployeeAddress,lat_EmployeeAddress,lon_TerminalAddress,lat_TerminalAddress
+1,Christy F Wood,10/23/2016,2/3/1985,999-79-8630,"500 Linwood Dr Greencastle, IN 46135","99 Crestview Dr Greenwood, IN 46143",-86.8568406,39.6513699,-86.0977129,39.6274365
+2,Tonya F Ross,12/26/2015,1/12/1965,999-55-8000,"4976 W 600 N Fairland, IN 46126","99 Crestview Dr Greenwood, IN 46143",-85.8757283,39.6113165,-86.0977129,39.6274365
+3,Curtis M Powell,9/13/2013,2/22/1967,999-47-8489,"7525 Wellingshire Blvd Indianapolis, IN 46217","340 Stadium Dr Brownsburg, IN 46112",-86.2052077,39.6546561,-86.3898542,39.8371902
+4,Brett M Long,10/23/2014,5/16/1976,999-19-2979,"11259 N 300 W Alexandria, IN 46001","900 Sawmill Rd New Whiteland, IN 46184",-85.7282439,40.2670985,-86.1028011,39.563263
+5,Alison F Flores,10/9/2013,12/19/1986,999-59-9092,"389 E Jackson St Martinsville, IN 46151","900 Sawmill Rd New Whiteland, IN 46184",-86.4240296,39.4255873,-86.1028011,39.563263
+6,Philip M Washington,7/12/2013,3/20/1972,999-69-8323,"2200 W 22nd St Anderson, IN 46016","2301 N Park Ave Indianapolis, IN 46205",-85.7074371,40.0949852,-86.1472958,39.7996407

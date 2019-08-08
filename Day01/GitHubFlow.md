@@ -1,7 +1,11 @@
 GitHub Flow Instructions
 ========================
 
-1. Make sure you're up-to-date with `upstream:master`
+> **Note: After making changes to a file, make sure to add & commit your
+> changes (steps 2-3) _before_ attempting to pull with rebase!**
+
+To update your local machine & remote fork (`origin`):
+1. Make sure your local machine is up-to-date with `upstream:master`
     ```
     > git pull --rebase upstream master
     ```
@@ -15,9 +19,13 @@ GitHub Flow Instructions
     ```
     > git push --force origin master
     ```
-5. Open a pull request to `upstream:master` from your fork (`origin`)
-6. Wait on PR comments, suggestions, etc. and re-edit your code
-7. Success!
 
-**Note: After making changes to a file, make sure to add & commit your changes _before_
-attempting to pull with rebase (step 1 above)!**
+If you're interested in contributing your changes back into the `upstream`
+repository:
+1. Open a pull request to `upstream:master` from your fork (`origin`)
+2. Wait on PR comments, suggestions, etc. and re-edit your code
+3. Add, commit, and push your changes to `origin`. GitHub will automatically
+incorporate these changes into your pull request!
+
+
+

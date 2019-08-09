@@ -59,7 +59,7 @@ particularly encouraged to apply.
 - Skills: 
     * Python programming, version control, social coding, data handling and visualization, data analysis, data modeling and prediction, and scientific and engineering applications
 - Instructors: 
-    * Ryan Wade (Blue Horseshoe Solutions), Vetria Byrd (Purdue University), Edmond Chow (Georgia Tech), Xiaoming Huo (Georgia Tech), Eva Dyer (Georgia Tech), Chris DePree (Agnes Scott), and David Sherrill (Georgia Tech)
+    * Ryan Wade (Blue Horseshoe Solutions), Vetria Byrd (Purdue University), Edmond Chow (Georgia Tech), Xiaoming Huo (Georgia Tech),  Chris DePree (Agnes Scott), and David Sherrill (Georgia Tech)
 - Location: Georgia Tech Campus (Visitor parking available in the W23 Parking
 Lot, located at 911 State St. NW.)
     * Monday: Engineered Biosystems Building (EBB), Children's Healthcare Seminar Room (first floor by food kiosk), 950 Atlantic Dr., Atlanta GA 30332

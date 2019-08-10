@@ -8,6 +8,8 @@ applications of machine learning and data science:
 of drug binding affinities using machine learning
 - `Byrd_Data-Visualization`: Prof. Byrd's lecture on the ubiquitous
 nature of data visualization
+- `DePree_Exoplanet-Exploration`: Prof. DePree's lecture on minimg data
+from the NASA Exoplanet Archive
 
 
 
